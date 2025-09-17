@@ -66,24 +66,11 @@ Through this project, I gained practical experience in Azure Synapse data integr
 
 
 
-## 📸 Evidence
-
-![synapse_pipeline.png](./evidence/synapse_pipeline.png)  
-Screenshot of pipeline orchestration view
-
-![pipeline_run.png](./evidence/pipeline_run.png)  
-Screenshot of successful pipeline run
-
-
 
 
 ## 📎 Deliverables
 
-- [`- Synapse pipeline JSON exports in /deliverables/`](./deliverables/- Synapse pipeline JSON exports in /deliverables/)
-
-- [`- Screenshots of pipeline run UI`](./deliverables/- Screenshots of pipeline run UI)
-
-- [`- README with setup and execution notes`](./deliverables/- README with setup and execution notes)
+- [`01_azure_synapse_screenshots.pdf`](./deliverables/01_azure_synapse_screenshots.pdf)
 
 
 
@@ -108,5 +95,4 @@ Screenshot of successful pipeline run
 - Avoids ongoing Azure charges
 
 
-
-*Generated automatically via Python + Jinja2 + SQL Server table `tblMiniProjectProgress` on 09-15-2025 19:27:01*
+*Generated automatically via Python + Jinja2 + SQL Server table `tblMiniProjectProgress` on 09-17-2025 15:11:05*
